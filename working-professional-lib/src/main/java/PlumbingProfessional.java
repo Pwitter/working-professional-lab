@@ -18,6 +18,11 @@ public class PlumbingProfessional extends Professional implements IPlumbingProfe
 		
 	}
 
+	public boolean fixpipe(Pipe pipe, Tool wrench) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
 	
 		
 	}
