@@ -1,5 +1,6 @@
 
 public class Wrench extends Tool {
+	private float size;
 
 	public Wrench(String brand) {
 		super(brand);
