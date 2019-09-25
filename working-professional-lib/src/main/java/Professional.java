@@ -14,4 +14,10 @@ public abstract class Professional {
 	
 	
 	public abstract void addCertificate(Certification certification);
+
+
+	public boolean fixRouter(Pipe pipe, Tool tool) {
+		// TODO Auto-generated method stub
+		return false;
+	}
 }
